@@ -1,0 +1,10 @@
+# ninja log v5
+1	60	7553978882978595	CMakeFiles/GameBoyEmulator.dir/main.c.obj	e22af49e29e996d0
+60	115	7553978883504786	GameBoyEmulator.exe	5a98d085a0067c68
+4	46	7553910183149703	CMakeFiles/libs.dir/libs/emu_hardware/gba_cpu.c.obj	40f31e8fe50232f1
+7	47	7553910183159698	CMakeFiles/libs.dir/libs/emu_hardware/gba_memory.c.obj	d526d1379d475e4c
+7	80	7552307248893282	CMakeFiles/GameBoyEmulator.dir/lib/emu.c.obj	f6dc9aa770505d27
+1	156	7554022065972898	build.ninja	d51c43b60ec3bfe4
+0	55	7553947599908750	CMakeFiles/emu_libs.dir/libs/emu_hardware/gba_cpu.c.obj	610c5b57375ede3c
+6	56	7553947599908750	CMakeFiles/emu_libs.dir/libs/emu_hardware/gba_memory.c.obj	ea3ce3a4f8e72069
+57	96	7553947600338746	libemu_libs.a	8362b2a1ff9990a9
