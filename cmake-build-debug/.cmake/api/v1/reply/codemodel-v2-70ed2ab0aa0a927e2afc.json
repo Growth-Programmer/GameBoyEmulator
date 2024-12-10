@@ -15,7 +15,8 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -30,7 +31,8 @@
 					"name" : "GameBoyEmulator",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -39,8 +41,15 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "GameBoyEmulator::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-GameBoyEmulator-Debug-814d78bd69a54d172675.json",
+					"jsonFile" : "target-GameBoyEmulator-Debug-6e59da4418d0132bbb47.json",
 					"name" : "GameBoyEmulator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "emu_libs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-emu_libs-Debug-a4b5785da2380899826d.json",
+					"name" : "emu_libs",
 					"projectIndex" : 0
 				}
 			]
