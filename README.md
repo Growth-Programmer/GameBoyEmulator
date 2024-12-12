@@ -1,6 +1,6 @@
 Game Boy Advanced Emulator written in C with CMake
 
-Important Hardware GBA Information References:
+Important GBA Hardware Information References:
 
 https://gbdev.io/pandocs/
 
