@@ -24,6 +24,5 @@ int main(int argc, char **argv) {
     long a = strtol(buf, &end_ptr, 10);
     printf("You entered %ld.\n", a);
 
-
     return EXIT_SUCCESS;
 }
