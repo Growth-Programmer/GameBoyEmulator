@@ -8,6 +8,8 @@
  Date: 12/11/2024
  */
 
+ // New Years update
+
 int main(int argc, char **argv) {
     if (puts("Starting EZ GameBoy Emulator...") == EOF) {
         puts("EZ GameBoy Emulator Start Up Failed...");
