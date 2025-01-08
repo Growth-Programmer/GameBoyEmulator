@@ -7,7 +7,7 @@
  Purpose: Game Boy Advanced Emulator Main
  Date: 12/11/2024
  */
- // Working
+ // WorkingG
 
 int main(int argc, char **argv) {
     if (puts("Starting EZ GameBoy Emulator...") == EOF) {
